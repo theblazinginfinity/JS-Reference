@@ -3,4 +3,4 @@
 
 # live link
 
-https://theblazingfire.github.io/JS-Reference
+https://theblazinginfinity.github.io/JS-Reference/
